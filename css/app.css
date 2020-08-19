@@ -63,3 +63,23 @@ h2 {
     background-image: url('../images/louvre.jpeg');
     background-size: cover;
 }
+
+#maui {
+    background-image: url('../images/maui.jpg');
+    background-size: cover;
+}
+
+#rome {
+    background-image: url('../images/rome.jpg');
+    background-size: cover;
+}
+
+#newyork {
+    background-image: url('../images/niagarafalls.jpg');
+    background-size: cover;
+}
+
+#oregon {
+    background-image: url('../images/thorswell.jpg');
+    background-size: cover;
+}
